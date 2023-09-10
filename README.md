@@ -14,4 +14,4 @@
 <h5>O vídeo abaixo mostra a aplicação sendo executada, fazendo o sorteio do número a partir da determinação do usuário.</h5>
 <br>
 
-<img>
+<img src="https://github.com/PitterBonoto/Project-dev-drawer/blob/main/assets/gif-dev-drawer.gif?raw=true">

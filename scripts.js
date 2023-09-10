@@ -9,9 +9,12 @@ function draw() {
     const max = Math.floor(document.querySelector("#input-main-2").value)
 
     const result = Math.floor(Math.random() * (max - min) + min);
-    
+
+    if (min >= max) {
+    alert("O VALOR INICIAL DEVE SER MENOR QUE O VALOR FINAL")    
+    } else {
     resultPrint.innerHTML = result
-   
+    }
 }
 
 
